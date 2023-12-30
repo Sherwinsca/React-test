@@ -1,0 +1,19 @@
+.navbar{
+    background-color: mediumvioletred;
+    color: white;
+    font-weight: bold;
+    float:left;
+}
+.nav_btn{
+    background-color: cornflowerblue;
+    color: white;
+    border-radius: 20%;
+    padding:0.5rem 0.3rem 0.5rem 0.3rem;
+}
+.round{
+    height: 80px;
+    width: 80px;
+    background-color: cornflowerblue;
+    border-radius: 50%;
+    text-align: center;
+}
